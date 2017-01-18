@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+ 
+	<book>
+		<title>PHP and MySQL</title>
+		<author>Miguel Alvarez</author>
+		<publisher>WebHole</publisher>
+		<price>10.00</price>
+	</book>
+	
+	<book>
+		<title>PHP jQuery Cookbook</title>
+		<author>Vijay Joshi</author>
+		<publisher>Reilly Media</publisher>
+		<price>20.99</price>
+	</book>
+	
+	<book>
+		<title>JAVA 123</title>
+		<author>WIlliam Vega</author>
+		<publisher>WebHole</publisher>
+		<price>15.25</price>
+	</book>
+	
+</library>
